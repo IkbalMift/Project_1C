@@ -1,8 +1,7 @@
 a = 5
 b = 7
 
-# Menghitung hasil perkalian
-hasil = a * b
 
-# Menampilkan hasil
+hasil = a * b
 print(f"Hasil dari {a} x {b} = {hasil}")
+master
