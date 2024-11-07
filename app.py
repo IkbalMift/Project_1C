@@ -1,4 +1,8 @@
-a = 3
-b = 5
-hasil = a + b 
-print("hasilnya adalah" hasil)
+a = 5
+b = 7
+
+# Menghitung hasil perkalian
+hasil = a / b
+
+# Menampilkan hasil
+print(f"Hasil dari {a} / {b} = {hasil}")
